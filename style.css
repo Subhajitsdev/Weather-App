@@ -14,6 +14,8 @@ body {
     body {
       background-image: url('https://source.unsplash.com/500x900/?landscape');
        /* Change the image URL for small screens */
+      background-position: center;
+      background-size: auto;
     }
   }
   
