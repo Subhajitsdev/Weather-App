@@ -6,13 +6,13 @@ body {
     margin: 0;
     font-family: 'Open Sans', sans-serif;
     background: #222;
-    background-image: url('https://source.unsplash.com/1600x900/?landscape');
+    background-image: url('https://source.unsplash.com/1600x900/?sky');
     font-size: 120%;
   }
 
   @media (max-width: 500px) {
     body {
-      background-image: url('https://source.unsplash.com/500x900/?landscape');
+      background-image: url('https://source.unsplash.com/500x900/?sky');
        /* Change the image URL for small screens */
       background-position: center;
       background-size: auto;
